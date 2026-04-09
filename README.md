@@ -124,7 +124,7 @@ pyinstaller --onefile main.py
 
 ### API 配置
 - **base_url**: 兼容OpenAI格式的大模型 API 的基础地址
-- **api_key**: 您的 API 密钥（从 [ModelScope]
+- **api_key**: 您的 API 密钥
 - **model_name**: 使用的模型名称（默认：Qwen/Qwen3-VL-8B-Instruct）
 
 ### 获取 API 密钥
